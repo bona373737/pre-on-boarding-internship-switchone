@@ -1,4 +1,4 @@
-# 💻 스위치원 pre-onboarding-9th-4-3 과제 제출
+# 💻 스위치원 인턴십 기업과제 
 
 <p>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-v4.9.4-3178C6?style=plastic&logoColor=white%22/%3E"/>
